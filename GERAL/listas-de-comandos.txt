@@ -114,4 +114,46 @@
 
 <source>	Define recursos de mídia;
 
+<<<<<<< HEAD
 <video>	Define um vídeo;
+=======
+<video>	Define um vídeo;
+
+<input type=”button”>	Define um botão clicável (usado principalmente com um JavaScript para ativar um script)
+
+<input type=”checkbox”>	Define uma caixa de seleção para seleção de várias opções
+
+<input type=”color”>	Define um controle para selecionar data (ano, mês, dia (sem hora))
+
+<input type=”datetime-local”>	Define um controle para selecionar data e hora (ano, mês, dia, hora (sem fuso horário)
+
+<input type=”email”>	Define um campo para entrar com endereço de e-mail
+
+<input type=”file”>	"Define um campo para selecionar um arquivo e um botão ""Procurar"" (para uploads de arquivo)"
+
+<input type=”hidden”>	Define um campo oculto
+
+<input type=”month”>	Define um controle para selecionar mês e ano (sem fuso horário)
+
+<input type=”number”>	Define um campo para selecionar um número inteiro
+
+<input type=”password”>	Define um campo para senha
+
+<input type=”radio”>	Define um botão de opção para seleção única
+
+<input type=”range”>	Define um controle de intervalo (como um controle deslizante)
+
+<input type=”reset”>	Define um botão para reinicar o preenchimento do formulário
+
+<input type=”search”>	Define um campo de texto para inserir uma string de pesquisa
+
+<input type=”submit”>	Define um botão para enviar os dados do formulário
+
+<input type=”tel”>	Define um campo para inserir um número de telefone
+
+<input type=”text”>	Input padrão. Define um campo de texto de linha única
+
+<input type=”time”>	Define um controle para inserir um horário (sem fuso horário)
+
+<input type=”url”>	Define um campo para inserir uma URll
+>>>>>>> dev
