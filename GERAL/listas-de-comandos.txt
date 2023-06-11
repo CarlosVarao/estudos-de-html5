@@ -152,4 +152,4 @@
 
 <input type=”time”>	Define um controle para inserir um horário (sem fuso horário)
 
-<input type=”url”>	Define um campo para inserir uma URL
+<input type=”url”>	Define um campo para inserir uma URll
