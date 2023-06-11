@@ -1,0 +1,117 @@
+<!--...-->	Define um comentário
+
+<a>	Define um hyperlink;
+
+<abbr>	Define uma abreviação de alguma palavra ou icone
+
+<b>	Define um texto em negrito; (Possui o mesmo nível semântico que um SPAN, e também o estilo de negrito no texto. Contudo, ele não dá nenhuma importância para o texto marcado com ele.)
+
+<blockquote>	Define uma citação longa;
+
+<body>	Define o corpo da página
+
+<br>	Insere uma quebra de linha simples
+
+<button>	Criar um botão e define um botão de comando
+
+<cite>	Define uma citação
+
+<col>	Define os atributos da coluna da tabela;
+
+<colgroup>	Define um grupo de colunas da tabela;
+
+<dd>	Define uma descrição de definição;
+
+<div>	Define uma seção no documento;
+
+<dl>	Define uma lista de definição;
+
+<dt>	Define um termo de definição;
+<em>	Define um texto em ênfase;
+
+<fieldset>	Define um conjunto de campos
+
+<form>	Define um formulário;
+
+<h1> até >h6>	Define do cabeçalho 1 até o cabeçalho 6; seguindo uma hierarquia
+
+<head>	Define uma informação sobre o documento. (Não aceita mais elementos Child como filho);
+
+<hr>	Define uma regra horizontal. (Tem o mesmo nível que um parágrafo, mas também é utilizado para fazer separações e quebras de linha);
+
+<html>	Define um documento html;
+
+<i>	Define um texto em itálico; (Possui o mesmo nível semântico que um SPAN. O texto continua sendo itálico )
+
+<iframe>	é um elemento HTML que serve para acrescentar conteúdos de outra página web na página atual.
+
+<img>	Define uma imagem;
+
+<input>	Define um campo de inserção;
+
+<label>	"Define uma ""label"" para o formulário;"
+
+<ol>	Define uma lista ordenada;
+
+<ul>	Define uma lista desordenada;
+
+
+<li>	Define os itens da lista;
+
+<menu>	"Define uma lista de ""menus"";"
+
+<meta>	Define informações meta;
+
+<option>	Define uma opção em uma lista suspensa (drop-down list);
+
+<optgroup>	Define um grupo de opção;
+
+<p>	Define um parágrafo;
+
+<script>	Define um script;
+
+<select>	Define uma lista selecionável;
+
+<small>	Define um pequeno texto;
+
+<span>	é um elemento HTML que possui a finalidade de agrupar um conteúdo textual e até mesmo apresentar um conteúdo visual.  O <span> é bastante parecido com o elemento <div>. A diferença entre essas tags é que <div> faz o agrupamento dos elementos a nível de bloco enquanto o <span> faz o agrupamento a nível de linha.
+
+<strong>	Define um texto forte (similar ao negrito);
+
+<style>	Define um estilo;
+
+<table>	Define uma tabela;
+
+<tbody>	Define o corpo da tabela;
+
+<thead>	Define o cabeçalho da tabela;
+
+<tfoot>	Define o rodapé da tabela;
+
+<td>	Define uma célula da tabela;
+
+<tr>	Define uma linha da tabela;
+
+<title>	Define o título do documento;
+
+<article>	Define um artigo;
+
+<aside>	Define o conteúdo além do conteúdo da página;
+
+<figure>	Define um grupo de média e seus captions;
+
+<figcaption>	Define o caption de uma imagem;
+
+<footer>	Define o rodapé de uma página;
+
+<header>	Define o cabeçalho de uma página;
+
+<nav>	Define os links de navegação;
+
+<section>	Define uma área ou seção;
+
+<audio>	Define o conteúdo de som;
+
+<source>	Define recursos de mídia;
+
+<video>	Define um vídeo;
