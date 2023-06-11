@@ -110,14 +110,9 @@
 
 <section>	Define uma área ou seção;
 
-<audio>	Define o conteúdo de som;
+<audio>		Define o conteúdo de som;
 
 <source>	Define recursos de mídia;
-
-<<<<<<< HEAD
-<video>	Define um vídeo;
-=======
-<video>	Define um vídeo;
 
 <input type=”button”>	Define um botão clicável (usado principalmente com um JavaScript para ativar um script)
 
@@ -156,4 +151,4 @@
 <input type=”time”>	Define um controle para inserir um horário (sem fuso horário)
 
 <input type=”url”>	Define um campo para inserir uma URll
->>>>>>> dev
+
